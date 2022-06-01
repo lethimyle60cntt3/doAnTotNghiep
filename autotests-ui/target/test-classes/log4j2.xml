@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Reference: https://github.com/scormaq/cucumber4-parallel-logger-->
-<Configuration strict="true" packages="com.unsplash.utils.log4j">
+<Configuration strict="true" packages="com.doantotnghiep.utils.log4j">
     <Appenders>
         <Console name="STDOUT">
             <PatternLayout
@@ -12,7 +12,7 @@
         </CucumberLog4j2ParallelAppender>
     </Appenders>
     <Loggers>
-        <Logger name="com.unsplash.utils.log4j" level="WARN"/>
+        <Logger name="com.doantotnghiep.utils.log4j" level="WARN"/>
         <Root level="WARN">
             <AppenderRef ref="${sys:LOG4J2_APPENDER:-STDOUT}"/>
         </Root>

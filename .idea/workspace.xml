@@ -4,7 +4,78 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b38de569-7dd4-4575-8007-2a27254fedb8" name="Default Changelist" comment="" />
+    <list default="true" id="b38de569-7dd4-4575-8007-2a27254fedb8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/ApiEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/ApiEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/CollectionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/CollectionHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/cleanup/DataStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/cleanup/DataStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CartSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CartSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CukesHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CukesHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/MainSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/MainSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/TIKINGONSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/TIKINGONSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ObjectMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ObjectMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/RandomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/RandomUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ScenarioContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ScenarioContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/AbstractPrettyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/AbstractPrettyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/CucumberLog4j2ParallelAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/CucumberLog4j2ParallelAppender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyLogFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyLogFormatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/apihelper/ApiEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/apihelper/BaseAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/apihelper/CollectionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/AbstractTestNGCucumberParallelTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/AbstractTestNGCukesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/CukesTestRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/CukesTestRunnerParallel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/EvnConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/hooks/WebDriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/hooks/cleanup/DataStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/TIKINGON_page.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/cart_page.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/create_collection_form_page.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/login_page.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/main_page.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/search_result_page.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/CartPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/CollectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/MainPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/TIKINGONPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/AbstractStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/CartSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/CukesHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/LoginSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/MainSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/TIKINGONSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/testdata/CommonData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/DataHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/ObjectMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/Props.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/RandomUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/ScenarioContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/AbstractPrettyFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/AnsiFormats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/CucumberLog4j2ParallelAppender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/MonochromeFormats.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/PrettyFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/PrettyLogFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/TestSourcesModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/RegressionTestNGSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/RegressionTestNGSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/production/env_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/production/env_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/stage/env_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/stage/env_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/test/env_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/test/env_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +89,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/autotests-ui/src/test/java/com/doAnTotNghiep" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
