@@ -6,6 +6,7 @@ Feature: TIKI NGON
     And login with account "LeUser"
     And click Fruit button
     And click any item
+    And click close button
     And click Add button
     And click turn off button
     And click Cart button

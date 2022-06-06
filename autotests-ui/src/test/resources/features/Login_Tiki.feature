@@ -20,6 +20,7 @@ Feature: Login Tiki
     Then should see message phone number is not formatted
     Examples:
       |phone number          |
+      |                      |
       |123456                |
       |3427645874134545143254|
       |egfyasfdyshfd         |

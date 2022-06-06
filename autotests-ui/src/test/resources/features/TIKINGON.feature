@@ -6,6 +6,7 @@ Feature: TIKI NGON
     And login with account "LeUser"
     And click Fruit button
     And click any item
+    And click close button
     And click Add button
     And click turn off button
     And click Cart button
@@ -22,16 +23,7 @@ Feature: TIKI NGON
       And click see button
       And click plus button
       Then the number quantity should increase "1" unit
-  @TKN_04 @error_message_when_order_failed
-    Scenario:error message when order failed
-      And click see button
-      And click Buy button
-      And click save address button
-      Then Should see message block
 
 
-  @TKN_05 @Deleting_goods_failed
-    Scenario: deleting goods failed
-      And click detele buton
-      And click No button
-      Then no good is deleted
+
+

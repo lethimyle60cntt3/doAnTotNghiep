@@ -6,75 +6,130 @@
   <component name="ChangeListManager">
     <list default="true" id="b38de569-7dd4-4575-8007-2a27254fedb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/ApiEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/ApiEndpoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/CollectionHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/apihelper/CollectionHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/WebDriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/cleanup/DataStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/hooks/cleanup/DataStorage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CartSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CartSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CukesHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/CukesHook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/MainSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/MainSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/TIKINGONSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/TIKINGONSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/stepdefs/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ObjectMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ObjectMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/RandomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/RandomUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ScenarioContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/ScenarioContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/AbstractPrettyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/AbstractPrettyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/CucumberLog4j2ParallelAppender.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/CucumberLog4j2ParallelAppender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyLogFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/java/com/doantotnghiep/utils/log4j/PrettyLogFormatter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/apihelper/ApiEndpoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/apihelper/BaseAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/apihelper/CollectionHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/AbstractTestNGCucumberParallelTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/AbstractTestNGCukesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/CukesTestRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/CukesTestRunnerParallel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/configuration/EvnConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/hooks/WebDriverFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/hooks/cleanup/DataStorage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/TIKINGON_page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/cart_page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/create_collection_form_page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/login_page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/main_page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/locators/search_result_page.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/CartPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/CollectionPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/MainPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/pages/TIKINGONPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/AbstractStep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/CartSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/CukesHook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/LoginSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/MainSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/TIKINGONSteps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/stepdefs/World.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/testdata/CommonData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/Context.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/DataHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/ObjectMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/Props.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/RandomUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/ScenarioContext.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/AbstractPrettyFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/AnsiFormats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/CucumberLog4j2ParallelAppender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/MonochromeFormats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/PrettyFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/PrettyLogFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/java/com/unsplash/utils/log4j/TestSourcesModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/RegressionTestNGSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/RegressionTestNGSuite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/production/env_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/production/env_config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/stage/env_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/stage/env_config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/test/env_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/profiles/test/env_config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/Cart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/Cart.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/Login_Tiki.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/Login_Tiki.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/MainPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/MainPage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/TIKINGON.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/src/test/resources/features/TIKINGON.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/autotests-ui-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/autotests-ui-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failed_scenarios.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failed_scenarios.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/2022-05-25T14-13-40_197.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/Surefire suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/Surefire suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/TEST-com.unsplash.configuration.CukesTestRunnerParallel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/com.unsplash.configuration.CukesTestRunnerParallel.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/junitreports/TEST-com.unsplash.configuration.CukesTestRunnerParallel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/Surefire suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/failsafe-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/attachments/attachment001.png" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/attachments/attachment001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/attachments/attachment002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/feature-scenarios/feature_0.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/feature-scenarios/feature_0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/feature-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/feature-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_14.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_15.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_16.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-detail/scenario_9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-sequence.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/scenario-sequence.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_01957284353.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_01957284357.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_01957284360.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_01957284385.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_01957284389.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232585.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232589.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232593.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232618.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232647.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232651.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232655.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232680.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232684.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232709.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232713.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232717.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232742.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232746.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232771.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232775.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232780.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_0340232805.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_1191331370.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_1191331370.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_1191331374.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_1191331374.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_1191331458.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_1191331458.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_956252084.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_956252109.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_956252113.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_956252139.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-scenarios/step_956252143.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/step-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_Add_item_to_cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_Check_out_the_product_catalog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_Check_the_product_search_box.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_Easy_exchange_and_return_in_my_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_Logout_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_My_Notification_in_my_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_Return_goods_in_my_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_Verify_my_order_in_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_comment_product_in_my_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_home_Page_tiki.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_001.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_003.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_004.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_005.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_006.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_007.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_008.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_009.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_hp_12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_profitable_shopping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_regression.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_regression.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_verify_my_account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-scenarios/tag_verify_my_notifications_in_my_account_ERROR.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/generated-report/pages/tag-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/json-cucumber-reports/cukejson.json" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/json-cucumber-reports/cukejson.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/Command line suite/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/Command line suite/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/Command line suite/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/Command line suite/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/old/Command line suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/old/Command line suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/test-classes/com/doantotnghiep/configuration/CukesTestRunnerParallel.class" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/test-classes/com/doantotnghiep/configuration/CukesTestRunnerParallel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/test-classes/com/doantotnghiep/pages/TIKINGONPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/test-classes/com/doantotnghiep/pages/TIKINGONPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/test-classes/com/doantotnghiep/stepdefs/TIKINGONSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/test-classes/com/doantotnghiep/stepdefs/TIKINGONSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/Cart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/Cart.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/Login_Tiki.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/Login_Tiki.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/MainPage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/MainPage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/TIKINGON.feature" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/test-classes/features/TIKINGON.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotests-ui/target/testng-cucumber-reports/cuketestng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/autotests-ui/target/testng-cucumber-reports/cuketestng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +190,7 @@
       <recent name="com.unsplash.pages.EditorViewPages" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CukesTestRunnerParallel">
+  <component name="RunManager" selected="TestNG.CukesTestRunnerParallel (1)">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="unsplash-automation-sample" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,6 +304,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CukesTestRunnerParallel (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="autotests-ui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.doantotnghiep.configuration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.doantotnghiep.configuration" />
+      <option name="MAIN_CLASS_NAME" value="com.doantotnghiep.configuration.CukesTestRunnerParallel" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CukesTestRunnerParallel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="autotests-ui" />
       <extension name="coverage">
@@ -268,6 +340,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CukesTestRunnerParallel (1)" />
         <item itemvalue="TestNG.CukesTestRunnerParallel" />
         <item itemvalue="Cucumber Java.Feature: Cart" />
         <item itemvalue="TestNG.CukesTestRunner" />
@@ -298,6 +371,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="tikingonPage.getValue(tikingonPage.qtyNumberEle)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>

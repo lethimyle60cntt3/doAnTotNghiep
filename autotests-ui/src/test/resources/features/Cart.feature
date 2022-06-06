@@ -13,6 +13,7 @@ Background:
       And the user clicks on first product
       And the user clicks on choose to buy button
       And the user clicks on Cart button
+      And the user clicks on selection all
       And the user clicks on Delete button
       And the user clicks on confirm button
       Then the user should see Continue shopping button
@@ -87,7 +88,7 @@ Background:
       And the user clicks on first products
       And the user clicks on first product
       And the user clicks on choose to buy button
-      And the user clicks on Cart
+      And the user clicks on Cart button
       And the user clicks on selection all
       And the user clicks on Buy product button
       And the user clicks on Ordered button
